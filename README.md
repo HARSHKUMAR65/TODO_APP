@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Simple todo list web app to save and manage todos, and save them to the local storage The web app has a beatifull UI design that is make it dun adding todos
+
 ![todo_ary](https://user-images.githubusercontent.com/82859280/236802982-5e25e6b3-c415-4a17-9526-c42a96eda4c5.png)
 
 .features
